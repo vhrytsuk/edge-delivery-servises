@@ -5,8 +5,8 @@ This project boilerplate is for Edge Delivery Services projects that integrate w
 https://experienceleague.adobe.com/developer/commerce/storefront/
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--edge-delivery-servises--vhrytsuk.aem.page/
+- Live: https://main--edge-delivery-servises--vhrytsuk.aem.live/
 
 ## Installation
 
